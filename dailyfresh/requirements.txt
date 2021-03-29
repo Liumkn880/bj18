@@ -53,7 +53,7 @@ PyDispatcher==2.0.5
 pyexcel==0.6.1
 pyexcel-io==0.5.20
 pyexcel-xls==0.5.8
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pymongo==3.10.1
 PyMySQL==0.9.3
